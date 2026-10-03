@@ -4,6 +4,8 @@
     "github": "JOJO-69-96"
   },
   "claimedAt": "2026-10-03T10:30:32.842Z",
-  "records": {},
+  "records": {
+    "CNAME": "jojo-sixnine.netlify.app"
+  },
   "country": "IN"
 }
