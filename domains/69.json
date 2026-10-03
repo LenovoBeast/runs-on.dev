@@ -4,7 +4,9 @@
     "github": "rayapuraakash"
   },
   "claimedAt": "2026-10-03T14:01:19.628Z",
-  "records": {},
+  "records": {
+    "CNAME": "rayapur.com"
+  },
   "country": "IN",
   "profile": {
     "name": "Aakash"
