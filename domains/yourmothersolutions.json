@@ -6,6 +6,7 @@
   "claimedAt": "2026-10-03T19:36:59.504Z",
   "records": {
     "TXT": [
+      "subdomain-owner-verification",
       "3e492dc17f0cc6a41a4c3f7ab2248b22"
     ]
   },
