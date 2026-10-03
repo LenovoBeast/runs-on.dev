@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "8ca5870f8469fcdb.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=stharan.runs-on.dev,e8aca1adce6a373ba8fe"
-      ]
-    }
-  }
+  "country": "IN"
 }

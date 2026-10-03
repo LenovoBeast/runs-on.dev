@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "df8414f2f9abe3ba.vercel-dns-017.com"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=mohaktalodhikar.runs-on.dev,659fc0a2a3e096a7bb33"
-      ]
-    }
-  }
+  "country": "IN"
 }

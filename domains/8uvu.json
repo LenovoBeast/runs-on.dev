@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "28492aa5d629c17c.vercel-dns-017.com"
   },
-  "country": "AT",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=8uvu.runs-on.dev,36fc07e30901489f1c66"
-      ]
-    }
-  }
+  "country": "AT"
 }

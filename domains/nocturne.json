@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "cname.f2ae2a4be4532f78.vercel-dns-017.com"
   },
-  "country": "CH",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=nocturne.runs-on.dev,97e1b296b53a348fb495"
-      ]
-    }
-  }
+  "country": "CH"
 }
