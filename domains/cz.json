@@ -4,6 +4,8 @@
     "github": "carloszaffonatto"
   },
   "claimedAt": "2026-10-03T21:22:41.860Z",
-  "records": {},
+  "records": {
+    "CNAME": "carloszaffonatto.github.io"
+  },
   "country": "GB"
 }
