@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "b26b1441953400bb.vercel-dns-017.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=aws-sspu.runs-on.dev,08e4e3ede8b10c3abfb9"
+      ]
+    }
+  }
 }
