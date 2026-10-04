@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "8ca78651b2914ad0.vercel-dns-017.com"
   },
-  "country": "EG",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=7amo.runs-on.dev,2014477245b72d21f829"
-      ]
-    }
-  }
+  "country": "EG"
 }
