@@ -4,7 +4,9 @@
     "github": "TakeruAizen"
   },
   "claimedAt": "2026-10-04T13:16:27.271Z",
-  "records": {},
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
   "country": "IN",
   "subdomains": {
     "_vercel": {
