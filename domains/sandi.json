@@ -5,5 +5,19 @@
   },
   "claimedAt": "2026-10-04T15:34:21.872Z",
   "records": {},
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "games": {
+      "CNAME": "sandigames.netlify.app"
+    },
+    "qlearo": {
+      "CNAME": "qlearo.netlify.app"
+    },
+    "expensepal": {
+      "CNAME": "expal.netlify.app"
+    },
+    "privacy": {
+      "CNAME": "expensepalacc.netlify.app"
+    }
+  }
 }
