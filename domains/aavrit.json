@@ -4,6 +4,8 @@
     "github": "AV248"
   },
   "claimedAt": "2026-10-04T15:42:19.337Z",
-  "records": {},
+  "records": {
+    "CNAME": "595db545503615cf.vercel-dns-017.com"
+  },
   "country": "NP"
 }
