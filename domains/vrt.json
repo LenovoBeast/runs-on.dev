@@ -10,8 +10,8 @@
   "country": "IT",
   "subdomains": {
     "api": {
-      "A": [
-        "185.176.43.102"
+      "TXT": [
+        "http://vrt.atwebpages.com/"
       ]
     }
   }
