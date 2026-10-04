@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "volterra-rt.github.io"
   },
-  "country": "IT"
+  "country": "IT",
+  "subdomains": {
+    "api": {
+      "TXT": [
+        "vrt.atwebpages.com"
+      ]
+    }
+  }
 }
