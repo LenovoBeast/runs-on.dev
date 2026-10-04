@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "cname.vercel-dns.com"
   },
-  "country": "IN"
+  "country": "IN",
+  "subdomains": {
+    "_vercel.amankumar": {
+      "TXT": [
+        "vc-domain-verify=amankumar.runs-on.dev,9a7a20f39e46caf86adb"
+      ]
+    }
+  }
 }
