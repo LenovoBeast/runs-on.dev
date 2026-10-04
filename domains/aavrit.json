@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "595db545503615cf.vercel-dns-017.com"
   },
-  "country": "NP"
+  "country": "NP",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=aavrit.runs-on.dev,b4515596779211252903"
+      ]
+    }
+  }
 }
