@@ -11,7 +11,7 @@
   "subdomains": {
     "api": {
       "TXT": [
-        "http://vrt.atwebpages.com/"
+        "vrt.atwebpages.com"
       ]
     }
   }
