@@ -4,6 +4,10 @@
     "github": "Proudjew12"
   },
   "claimedAt": "2026-10-04T14:22:52.805Z",
-  "records": {},
+  "records": {
+    "A": [
+      "82.70.254.49"
+    ]
+  },
   "country": "IL"
 }
