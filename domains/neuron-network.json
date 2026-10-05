@@ -14,9 +14,7 @@
       "CNAME": "neuron-network.runs-on.dev"
     },
     "matrix": {
-      "TXT": [
-        "neuron-network.runs-on.dev"
-      ]
+      "CNAME": "neuron-network.runs-on.dev"
     },
     "sso": {
       "CNAME": "neuron-network.runs-on.dev"
