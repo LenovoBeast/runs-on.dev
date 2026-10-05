@@ -19,6 +19,9 @@
     },
     "cicd": {
       "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "tools": {
+      "CNAME": "ossaraiva.runs-on.dev"
     }
   }
 }
