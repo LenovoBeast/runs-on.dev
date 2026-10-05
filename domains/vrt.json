@@ -25,12 +25,5 @@
       }
     ]
   },
-  "country": "IT",
-  "subdomains": {
-    "api": {
-      "TXT": [
-        "vrt.atwebpages.com"
-      ]
-    }
-  }
+  "country": "IT"
 }
