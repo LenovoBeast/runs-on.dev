@@ -7,5 +7,12 @@
   "records": {
     "CNAME": "9c594728bbe3c0b5.vercel-dns-017.com"
   },
-  "country": "ID"
+  "country": "ID",
+  "subdomains": {
+    "_vercel": {
+      "TXT": [
+        "vc-domain-verify=muhammadfariz.runs-on.dev,47a0312121a831c8de3d"
+      ]
+    }
+  }
 }
