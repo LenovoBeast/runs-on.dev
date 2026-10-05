@@ -7,12 +7,5 @@
   "records": {
     "CNAME": "aaryan-portfolio-website.vercel.app"
   },
-  "country": "IN",
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=kaaryan.runs-on.dev,ddcf48d178f06c32dc16"
-      ]
-    }
-  }
+  "country": "IN"
 }

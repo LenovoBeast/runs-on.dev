@@ -10,12 +10,5 @@
   "profile": {
     "name": "Shovith Debnath",
     "bio": "Chill vibes"
-  },
-  "subdomains": {
-    "_vercel": {
-      "TXT": [
-        "vc-domain-verify=shovith.runs-on.dev,94d0d86b50e60ce2d0c4"
-      ]
-    }
   }
 }
