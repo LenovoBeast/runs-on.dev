@@ -9,5 +9,10 @@
       "89.155.30.8"
     ]
   },
-  "country": "PT"
+  "country": "PT",
+  "subdomains": {
+    "vault": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    }
+  }
 }
