@@ -10,11 +10,6 @@
   "subdomains": {
     "tarunpandore": {
       "CNAME": "3905c9c4148cd935.vercel-dns-017.com"
-    },
-    "_google": {
-      "TXT": [
-        "google-site-verification=w4G22beOcUwnLR_Xv2aSzO6G6f0yfibcpLNAEjyxQGc"
-      ]
     }
   }
 }
