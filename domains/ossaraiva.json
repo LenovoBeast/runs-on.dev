@@ -13,6 +13,12 @@
   "subdomains": {
     "vault": {
       "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "infeherence": {
+      "CNAME": "ossaraiva.runs-on.dev"
+    },
+    "cicd": {
+      "CNAME": "ossaraiva.runs-on.dev"
     }
   }
 }
