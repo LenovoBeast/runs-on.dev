@@ -6,8 +6,8 @@
   "claimedAt": "2026-10-04T15:42:19.337Z",
   "records": {
     "TXT": [
-      "v=spf1 +include:spf.onlarksuite.com -all",
-      "verification-code-site-App_lark=KXM0i1musdyF9VU2SW9H"
+      "verification-code-site-App_lark=KXM0i1musdyF9VU2SW9H",
+      "v=spf1 +include:spf.onlarksuite.com -all"
     ],
     "MX": [
       {
