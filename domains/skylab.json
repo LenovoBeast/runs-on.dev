@@ -4,6 +4,8 @@
     "github": "skylab-rocketry"
   },
   "claimedAt": "2026-10-05T17:35:47.888Z",
-  "records": {},
+  "records": {
+    "CNAME": "skylab-rocketry.github.io"
+  },
   "country": "IT"
 }
